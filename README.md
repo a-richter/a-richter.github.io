@@ -1,3 +1,3 @@
 # a-richter.github.io
 
-To be completed.
+This is the repository for my personal website.
