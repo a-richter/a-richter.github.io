@@ -1,17 +1,20 @@
 # Site settings
-title: André Richter
+title: Andre Richter
 email: andre.richter@sofi.su.se
-description: > # this means to ignore newlines until "baseurl:"
-   I am a PhD student in Economics at the Swedish Institute for Social Research, Stockholm University. 
-   My research revolves - broadly speaking - around the inheritance of disadvantage and the role of 
-   early life conditions and health. 
+description: "I'm a PhD Candidate at the Swedish Institute for Social Research. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://a-richter.github.io/" # the base hostname & protocol for your site
+url: "https://a-richter.github.io"
 github_username:  a-richter
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
 theme: minima
+disqus:
+  shortname: jabranhamblog
+
+# needed for CI builds:
+exclude: [vendor]
