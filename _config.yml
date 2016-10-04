@@ -8,7 +8,6 @@ github_username:  a-richter
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
