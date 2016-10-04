@@ -13,7 +13,7 @@ is_contact: true
 >
 > Stockholm University
 >
-> Universitetsvägen 10 F
+> Universitetsvagen 10 F
 >
 > 109 61 Stockholm 
 >
