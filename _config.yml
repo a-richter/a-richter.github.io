@@ -1,20 +1,11 @@
-# Site settings
 title: Andre Richter
-email: andre.richter@sofi.su.se
-description: "I'm a PhD Candidate at the Swedish Institute for Social Research. 
-# baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://a-richter.github.io"
-github_username:  a-richter
-permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
+url: "http://a-richter.github.io"
+baseurl: "/a-richter"
 
-# Build settings
 markdown: kramdown
-theme: minima
-disqus:
-  shortname: jabranhamblog
 
-# needed for CI builds:
-exclude: [vendor]
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
