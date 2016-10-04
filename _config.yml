@@ -1,7 +1,7 @@
 # Site settings
 title: Andre Richter
 email: andre.richter@sofi.su.se
-description: "I'm a PhD Candidate at the Swedish Institute for Social Research. 
+description: I'm a PhD Candidate at the Swedish Institute for Social Research. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://a-richter.github.io"
 github_username:  a-richter
