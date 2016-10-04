@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img style="width=305px;height=363px;float:left;padding:10px;"
-src="/image/personal-photo.jpg" alt="profile picture" width="138" height="197">
+src="/image/personal-photo.jpg" alt="profile picture" width="305" height="363">
 
 Hi! 
 
