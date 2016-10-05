@@ -1,6 +1,8 @@
 title: Andre Richter
 url: "http://a-richter.github.io"
-baseurl: "/"
+baseurl: "/" 
+github_username:  a-richter
+permalink: /blog/:year/:month/:title.html
 
 markdown: kramdown
 

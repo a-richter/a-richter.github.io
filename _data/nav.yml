@@ -5,4 +5,4 @@
   link: "cv/cv.pdf"
 
 - name: "about"
-  link: "/"
+  link: "../index.html"
