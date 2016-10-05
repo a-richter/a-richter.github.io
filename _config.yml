@@ -1,8 +1,10 @@
 title: Andre Richter
 url: "http://a-richter.github.io"
-baseurl: "/a-richter"
-encoding: UTF-8
+baseurl: "/"
+
 markdown: kramdown
+
+tracking_id: #
 
 sass:
     style: compressed

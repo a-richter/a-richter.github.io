@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* [Email](mailto:andre.richter@sofi.su.se)
+* Email: [(click)](mailto:andre.richter@sofi.su.se)
 
 ---
 
@@ -13,9 +13,14 @@ is_contact: true
 >
 > Stockholm University
 >
-> Universitetsvagen 10 F
+> Universitetsvaegen 10 F
 >
 > 109 61 Stockholm 
 >
 > Sweden
+
 ---
+
+## Social
+
+[LinkedIn](#)
