@@ -1,0 +1,8 @@
+- name: "contact"
+  link: "contact.html"
+
+- name: "cv"
+  link: "cv/cv.pdf"
+
+- name: "about"
+  link: "index.html"
