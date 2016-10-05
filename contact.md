@@ -20,4 +20,5 @@ is_contact: true
 ## Electronic:
 
 [Email](mailto:andre.richter@sofi.su.se)
+
 [LinkedIn](http://www.linkedin.com/in/richterandre){:target="_blank"}
