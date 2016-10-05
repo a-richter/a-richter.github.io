@@ -3,10 +3,6 @@ layout: default
 is_contact: true
 ---
 
-* Email: [(click)](mailto:andre.richter@sofi.su.se)
-
----
-
 ## Mailing Address
 
 > Swedish Institute for Social Research
@@ -21,6 +17,7 @@ is_contact: true
 
 ---
 
-## Social
+## Electronic:
 
-[LinkedIn](#)
+[Email](mailto:andre.richter@sofi.su.se)
+[LinkedIn](http://www.linkedin.com/in/richterandre){:target="_blank"}
