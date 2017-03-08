@@ -1,9 +1,6 @@
 - name: "contact"
   link: "contact.html"
 
-- name: "projects"
-  link: "projects.html"
-
 - name: "cv"
   link: "cv/cv.pdf"
 
